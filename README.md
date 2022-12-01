@@ -12,3 +12,4 @@ relating them to the locations of tectonic plates—also allowing you to filter 
 
 ## Results 
 In the image below, you can see the result of the project.
+![earthquake_c](earthquake_c.png).
